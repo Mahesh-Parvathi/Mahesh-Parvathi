@@ -6,11 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mahesh-Parvathi&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshParvathi" />
 </p>
 
-<p align="center">
-  <a href="https://porfolio-umber-delta.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-🌐%20Visit%20My%20Portfolio-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-parvathi-29bb0a273/)
